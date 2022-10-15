@@ -6,7 +6,9 @@
  
  # 🔨 Ferramentas usadas
 <ul>
-	<li> Animation Controller </li>
+ <li> Animation Controller </li>
+ <li> Enum </li>
+ <li> Google Fonts </li>
  <li> MobX </li>
  <li> Provider </li>
  <li> Banco de Dados Hive</li>
