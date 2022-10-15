@@ -13,5 +13,27 @@
 </ul>
 
 # imagens do App
-![img](jogo_da_memoria/imgGitHub/1.png)
-![img](jogo_da_memoria/imgGitHub/2.png)
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/1.png" width="300px"/>
+  <img  src="jogo_da_memoria/imgGitHub/2.png" width="300px"/>
+  <img  src="jogo_da_memoria/imgGitHub/2.png" width="300px"/>
+</div>
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/3.png" width="300px"/>
+ <img  src="jogo_da_memoria/imgGitHub/4.png" width="300px"/>
+</div>
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/3.png" width="300px"/>
+</div>
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/4.png" width="300px"/>
+</div>
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/5.png" width="300px"/>
+</div>
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/6.png" width="300px"/>
+</div>
+<div>
+ <img  src="jogo_da_memoria/imgGitHub/7.png" width="300px"/>
+</div>
