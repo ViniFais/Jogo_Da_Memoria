@@ -102,10 +102,7 @@ abstract class GameControllerBase with Store {
   }
 
   _checkResultModoRound6(bool allMatched) async {
-    /* if (score == 0) {
-       await Future.delayed(
-          const Duration(milliseconds: 400), () => perdeu = true);
-    } */
+  
     if (_chancesAcabaram()) {
       await Future.delayed(
           const Duration(milliseconds: 400), () => perdeu = true);
