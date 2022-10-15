@@ -1,5 +1,5 @@
 # Jogo_Da_Memoria
- Jogo da Memoria em Flutter com o tema Round 6
+ Jogo da Memoria em Flutter com o tema da série Round 6
  
 # Status
  🟢 Concluido
