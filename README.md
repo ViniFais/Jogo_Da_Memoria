@@ -13,5 +13,5 @@
 </ul>
 
 # imagens do App
-![img](jogo_da_memoria/imgGithub/img1.png)
-![img](jogo_da_memoria/imgGithub/img2.png)
+![img](jogo_da_memoria/imgGithub/1.png)
+![img](jogo_da_memoria/imgGithub/2.png)
